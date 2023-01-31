@@ -40,4 +40,4 @@ services:
 
 volumes:
   postgres-data:
-  static-data:
+  static-data: \course\django-python-advanced\learn\
